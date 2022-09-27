@@ -1,1 +1,1 @@
-# COMP2001
+# COMP2101 - Administrative Scriptng
