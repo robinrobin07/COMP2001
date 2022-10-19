@@ -4,7 +4,7 @@
 # Data Gathering
 ################
 
-echo "Robin Chaudhary - Bash Lab 4"
+echo "Robin Robin - Bash Lab 4"
 verbose="no"
 customInterfaceRequested=""
 while [ $# -gt 0 ]; do
